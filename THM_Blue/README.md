@@ -69,7 +69,7 @@ The primary objectives of this assessment were:
 The assessment followed a structured penetration testing workflow based on industry best practices.
 
 <p align="center">
-<img src="screenshots/workflow.png" width = "350"
+<img src="screenshots/workflow.png" width = "500"
 </p>
 
 Each phase builds on the findings from the previous stage, ensuring a systematic approach while minimizing unnecessary interaction with the target.
